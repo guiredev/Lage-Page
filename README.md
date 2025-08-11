@@ -2,7 +2,7 @@
 
 > Uma breve descrição do projeto em 1 ou 2 frases, explicando o objetivo principal de forma clara e atrativa.
 
-![Banner ou Logo do Projeto](./assets/banner.png) <!-- opcional -->
+![Banner ou Logo do Projeto](./designers/desktop-design.jpg) <!-- opcional -->
 
 ---
 
