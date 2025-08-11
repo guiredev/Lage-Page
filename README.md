@@ -1,16 +1,15 @@
 # 📌 Lage Page
 
-> Uma breve descrição do projeto em 1 ou 2 frases, explicando o objetivo principal de forma clara e atrativa.
+> Uma lage page simples com html e css.
 
 ![Banner ou Logo do Projeto](./designers/desktop-design.jpg) <!-- opcional -->
 
 ---
 
-## 📌 Sobre o Projeto
-Explique de forma detalhada:
-- O problema que o projeto resolve
-- Público-alvo
-- O que o torna especial ou diferente
+## 📌 Sobre o Projeto:
+
+- O projeto é um site que foi utilizado para a pratica da utilização de html, css e vercionamento de codigos pelo github.
+- O objetivo foi fortalecer o conhecimento e explorar formas rapidas e inteligentes de programar.  
 
 ---
 
@@ -21,19 +20,11 @@ Explique de forma detalhada:
 
 ---
 
-## ✨ Funcionalidades
-- ✅ Recurso 1
-- ✅ Recurso 2
-- ✅ Recurso 3
-- 🔜 Futuras melhorias
-
----
-
 ## 📂 Estrutura do Projeto
 ```bash
 /
-├── index.html        # Página principal
-├── /assets           # Imagens e ícones
-├── /css              # Arquivos de estilo
-├── /js               # Scripts JS
+├── /arquivos         # Pasta com os arquivos de html e css
+├── /imgs             # Imagens e ícones
+├── /guia             # Readme com cores e fontes
+├── /designers        # Design do site mobile e desktop
 └── README.md         # Documentação do projeto
